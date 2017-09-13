@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B444174A-D715-45D0-B678-787665EFA7A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpeedSketch/AppDelegate.cs">
+    <Files>
+      <File FileName="SpeedSketch/AppDelegate.cs" Line="188" Column="13" />
+      <File FileName="SpeedSketch/Entitlements.plist" />
+      <File FileName="SpeedSketch/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bys/Documents/Chaoyun/A_iOS_Xamarin_SpeedSketch-AddDistribute/SpeedSketch/AppDelegate.cs" relfile="SpeedSketch/AppDelegate.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpeedSketch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MultiItemStartupConfigurations />
+</Properties>
